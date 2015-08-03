@@ -1,0 +1,3 @@
+Lispbox is a version of Lisp in a Box, which was originally created by Matthew Danish and Mikel Evins, customized for use with Practical Common Lisp.
+
+The purpose of Lispbox (and Lisp in a Box) is to get you up and running in a good Lisp environment as quickly as possible. When you start Lispbox it launches the text editor Emacs with SLIME (the Superior Lisp Interaction Mode for Emacs) already installed and starts Common Lisp for you. Lisp in a Box is designed to not interfere with your existing Emacs installation, if you have one.
